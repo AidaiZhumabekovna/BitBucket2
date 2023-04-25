@@ -3,5 +3,6 @@ public class Main {
         System.out.println("added");
         System.out.println("fetch");
         System.out.println("merging......");
+        System.out.println("added merge");
     }
 }
